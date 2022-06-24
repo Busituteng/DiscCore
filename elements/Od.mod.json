@@ -1,0 +1,16 @@
+{
+  "_fv": 6,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Emptydisc"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "empty_disc",
+    "namespace": "forge"
+  }
+}
