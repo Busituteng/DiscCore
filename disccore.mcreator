@@ -1,0 +1,68 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Emptydisc",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Tab",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Od",
+      "type": "tag",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ed",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.emptydisc.name": "Empty Disc",
+      "itemGroup.tabtab": "DiscCore"
+    },
+    "zh_cn": {
+      "item.emptydisc.name": "¿Õ°×³ªÆ¬",
+      "itemGroup.tabtab": "³ªÆ¬ºËÐÄ"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "disccore",
+    "modName": "DiscCore",
+    "version": "1.0",
+    "description": "The Core Mod for BT\u0027s Disc Mods.",
+    "author": "BT,MCR",
+    "websiteURL": "https://center.mcmod.cn/276896/#/home/",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "credits": "BunnimimiTotem",
+    "modElementsPackage": "net.mcreator.disccore",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
